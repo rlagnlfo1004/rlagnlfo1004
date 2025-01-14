@@ -7,7 +7,7 @@
 
 <h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
 <div align="center">
-  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagnlfo1004>
+  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=hrkim2001>
 </div>
 
 ## ⚡ Skills
