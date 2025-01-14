@@ -36,10 +36,9 @@
 **소프트웨어 테스트**, **쿠버네티스**
 
 ## 🌱 Projects
-- [우학동 : 동아리 관리 자동화 SaaS](https://github.com/team8901) ( 2024 AJOU SoftCon 1st prize. 2024.09 ~ 2024.12 )
-- [하비위클리](https://www.hobbly.co.kr/) ( 2024 Student Start-up Promising Team 300
-   2024.03~2024.09 )
+- [](https://www.google.com/) ( )
+- [](https://www.google.com/) ( )
 
 ## ⚙️ ETC
-- [진행한 스터디](https://www.notion.so/jjunhub/15969b3a7dff804d9f8be144796471a9)
-- [기술 블로그](https://jjunhub.tistory.com/)
+- [진행한 스터디](https://www.google.com/)
+- [기술 블로그](https://www.google.com/)
