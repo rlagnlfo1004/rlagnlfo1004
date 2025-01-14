@@ -10,7 +10,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Spring Security](https://img.shields.io/badge/Spring%20Securirty-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Database**
 <br>
@@ -19,11 +18,8 @@
 
 **Tool**
 <br>
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Jacoco](https://img.shields.io/badge/Jacoco-%23981E32?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-%23362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 **Cloud**
