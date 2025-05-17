@@ -12,7 +12,8 @@
 
 ## ⚡ Skills
 **Language**
-  <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+  <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) -->
 
 **Framework & Library**
 <br>
@@ -23,13 +24,13 @@
 **Database**
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
 
 **Tool**
 <br>
-![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<!-- ![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white) -->
 
 **Cloud**
 <br>
@@ -42,8 +43,8 @@
 
 ## 🌱 Projects
 - [onRank(올랭) 서버개발](https://github.com/onRank/onRank-spring.git) (2025-1학기 파란학기)
-- [](https://www.google.com/) ( )
+<!-- - [](https://www.google.com/) ( ) -->
 
 ## ⚙️ ETC
-- [진행한 스터디](https://www.google.com/)
-- [기술 블로그](https://www.google.com/)
+- [기술 블로그](https://github.com/rlagnlfo1004/TIL)
+<!-- - [진행한 스터디](https://www.google.com/) -->
