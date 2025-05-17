@@ -1,6 +1,6 @@
 ## HwiRae KIM👋
 
-<h3 align="center">💥 Github states 💥 </h3>
+<!-- <h3 align="center">💥 Github states 💥 </h3>
 <div align="center">
     <img src=https://github-readme-stats.vercel.app/api?username=rlagnlfo1004&theme=dracula&show_icons=true>
 </div>
@@ -8,9 +8,9 @@
 <h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
 <div align="center">
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=hrkim2001>
-</div>
+</div> -->
 
-## ⚡ Skills
+<!-- ## ⚡ Skills -->
 **Language**
   <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) -->
