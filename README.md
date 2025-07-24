@@ -5,15 +5,16 @@
     <img src=https://github-readme-stats.vercel.app/api?username=rlagnlfo1004&theme=dracula&show_icons=true>
 </div>
 
-<!-- <h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
+<h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
 <div align="center">
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=hrkim2001>
-</div> -->
+</div>
 
 ## ⚡ Skills
 **Language**
-  <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-  <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) -->
+  <br> 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 **Framework & Library**
 <br>
@@ -39,11 +40,11 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## ⚡ Interested in
-**소프트웨어 테스트**, **쿠버네티스**
+**Backend Engineer**, **Data Engineer** , **Big Data**
 
 ## 🌱 Projects
+- [오픈스택 기반 클라우드 콘솔 제작](https://git.ajou.ac.kr/aolda/cloud-console-backend) (Aolda)
 - [onRank(올랭) 서버개발](https://github.com/onRank/onRank-spring.git) (2025-1학기 파란학기)
-<!-- - [](https://www.google.com/) ( ) -->
 
 ## ⚙️ ETC
 - [기술 블로그](https://github.com/rlagnlfo1004/TIL)
