@@ -1,10 +1,15 @@
 ## HwiRae KIM👋
 
-<!-- <h3 align="center">💥 Github states 💥 </h3>
+<h3 align="center">💥 Github states 💥 </h3>
 <div align="center">
-    <img src=https://github-readme-stats.vercel.app/api?username=rlagnlfo1004&theme=dracula&show_icons=true>
+    <img src=https://github-readme-stats.vercel.app/api?username=rlagnlfo1004&count_private=true&theme=discord_old_blurple&show_icons=true>
 </div>
 
+<div align="center">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rlagnlfo1004&layout=compact&theme=discord_old_blurple>
+</div>
+
+<!-- 
 <h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
 <div align="center">
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=hrkim2001>
