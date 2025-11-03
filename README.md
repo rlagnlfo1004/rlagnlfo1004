@@ -51,9 +51,16 @@
 **Backend Engineer**, **Data Engineer** , **Big Data** -->
 
 ## 🌱 Projects
-- [Real-time Data Lake and Pipeline Construction](https://github.com/rlagnlfo1004/kafka-producer)(2025-2학기 자기주도프로젝트)
-- [오픈스택 기반 클라우드 콘솔 제작](https://git.ajou.ac.kr/aolda/cloud-console-backend) (Aolda)
-- [onRank(올랭) 서버개발](https://github.com/onRank/onRank-spring.git) (2025-1학기 파란학기)
+- 실시간 데이터 레이크 및 파이프라인 구축 with AWS
+  - [Kafka: kafka-producer](https://github.com/rlagnlfo1004/kafka-producer)
+  - [Spark Streaming: pyspark-apps](https://github.com/rlagnlfo1004/pyspark-apps)
+  - [서버 구성: ansible-playbook](https://github.com/rlagnlfo1004/datalake-ansible-playbook)
+- 오픈스택 기반 클라우드 콘솔 제작
+  - [server 레포지토리](https://git.ajou.ac.kr/aolda/cloud-console-backend)
+- 하루 필름: 영상 일기 스트리밍 서비스
+  - [server 레포지토리](https://git.ajou.ac.kr/today-my-diary/backend)
+- onRank: 스터디 활동 관리 플랫폼
+  - [server 레포지토리](https://github.com/onRank/onRank-spring.git)
 
 ## ⚙️ ETC
 - [개발 일지](https://github.com/rlagnlfo1004/TIL)
