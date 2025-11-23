@@ -4,7 +4,7 @@
 
 - BOAZ 25th Member. Data Engineering Sector (Jun 2025 ~ Present)
 - Aolda 1st Member, Ajou Univ. Private Cloud Society (Mar 2025 ~ Present)
-- Hantor 37th President, Ajou Univ. Software Society (Jan 2025 ~ Dec 2025)
+- Hantor 37th President, Ajou Univ. Software Society (Jan 2025 ~ Present)
 - Ajou University. Department of Software (Mar 2021 ~ Present)
   
 <br>
