@@ -27,8 +27,8 @@
 
 ### D.E.
 <p align="left">
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white"/>
   <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
@@ -37,11 +37,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-</p>
-
-### CLOUD
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
 
 ### Dev/Ops
