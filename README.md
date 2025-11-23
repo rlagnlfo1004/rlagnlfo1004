@@ -1,67 +1,63 @@
-## HwiRae KIM👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hwi%20Rae%20Kim%20👋)
 
-<!-- <h3 align="center">💥 Github states 💥 </h3>
-<div align="center">
-    <img src=https://github-readme-stats.vercel.app/api?username=rlagnlfo1004&count_private=true&theme=discord_old_blurple&show_icons=true>
-</div>
+## 🎓 Education & Experience
 
-<div align="center">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rlagnlfo1004&layout=compact&theme=discord_old_blurple>
-</div> -->
-
-<!-- 
-<h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
-<div align="center">
-  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=hrkim2001>
-</div> -->
-
-<!-- ## ⚡ Skills -->
-## ⚡ Interested in
-**Backend Engineer**, **Data Engineer** , **Big Data**
-<br> <br> 
-<!-- **Language**
-  <br> 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) -->
-
-<!-- **Framework & Library**
+- BOAZ 25th Member. Data Engineering Sector (Jun 2025 ~ Present)
+- Aolda 1st Member, Ajou Univ. Private Cloud Society (Mar 2025 ~ Present)
+- Hantor 37th President, Ajou Univ. Software Society (Jan 2025 ~ Dec 2025)
+- Ajou University. Department of Software (Mar 2021 ~ Present)
+  
 <br>
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Spring Security](https://img.shields.io/badge/Spring%20Securirty-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) -->
 
-<!-- **Database**
+## ⚒️ Skills
+### P.L.    
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### B.E.
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### D.E.
+<p align="left">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
+
+### DB
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+</p>
+
+### CLOUD
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+</p>
+
+### Dev/Ops
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
 <br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
-<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
-
-<!-- **Tool**
-<br>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
-<!-- ![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white) -->
-
-<!-- **Cloud**
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) -->
-
-<!-- ## ⚡ Interested in
-**Backend Engineer**, **Data Engineer** , **Big Data** -->
 
 ## 🌱 Projects
+- [ACC : 오픈스택 기반 클라우드 콘솔 제작](https://git.ajou.ac.kr/aolda/cloud-console-backend)
+- [하루 필름 : 영상 일기 스트리밍 서비스](https://git.ajou.ac.kr/today-my-diary/backend)
+- [onRank : 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-spring.git)
+- [제 2회 아주톤 최우수상 수상](https://github.com/rlagnlfo1004/ajouthon_2025_team_2)
 - 실시간 데이터 레이크 및 파이프라인 구축 with AWS
-  - [Kafka: kafka-producer](https://github.com/rlagnlfo1004/kafka-producer)
-  - [Spark Streaming: pyspark-apps](https://github.com/rlagnlfo1004/pyspark-apps)
-  - [서버 구성: ansible-playbook](https://github.com/rlagnlfo1004/datalake-ansible-playbook)
-- 오픈스택 기반 클라우드 콘솔 제작
-  - [server 레포지토리](https://git.ajou.ac.kr/aolda/cloud-console-backend)
-- 하루 필름: 영상 일기 스트리밍 서비스
-  - [server 레포지토리](https://git.ajou.ac.kr/today-my-diary/backend)
-- onRank: 스터디 활동 관리 플랫폼
-  - [server 레포지토리](https://github.com/onRank/onRank-spring.git)
-
-## ⚙️ ETC
-- [개발 일지](https://github.com/rlagnlfo1004/TIL)
-<!-- - [진행한 스터디](https://www.google.com/) -->
+  1. [kafka-producer](https://github.com/rlagnlfo1004/kafka-producer)
+  2. [pyspark-apps](https://github.com/rlagnlfo1004/pyspark-apps)
+  3. [ansible-playbook](https://github.com/rlagnlfo1004/datalake-ansible-playbook)
