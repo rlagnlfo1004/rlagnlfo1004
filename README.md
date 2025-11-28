@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hwi%20Rae%20Kim%20👋)
 
+
+##  👨🏻‍💻 Contact To Me
+<p align="center">
+  <a href="https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2"/></a> 
+  <a href="mailto:hramst0618@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hramst0618@gmail.com"/></a> 
+  <a href="https://github.com/rlagnlfo1004"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rlagnlfo1004"/></a> 
+  <a href="https://git.ajou.ac.kr/hrkim2001"><img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&link=https://git.ajou.ac.kr/hrkim2001"/></a> 
+</p>
+
+<br>
+
 ## 🎓 Education & Experience
 
 - BOAZ 25th Member. Data Engineering Sector (Jun 2025 ~ Present)
@@ -9,7 +20,7 @@
   
 <br>
 
-## ⚒️ Skills
+## ⚙️ Skills
 ### P.L.    
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
