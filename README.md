@@ -60,7 +60,7 @@
 
 ## 🌱 Projects
 - [ACC : 오픈스택 기반 클라우드 콘솔 제작](https://git.ajou.ac.kr/aolda/cloud-console-backend)
-- [하루 필름 : 영상 일기 스트리밍 서비스](https://git.ajou.ac.kr/today-my-diary/backend)
+- [하루 필름 : 영상 일기 스트리밍 서비스](https://git.ajou.ac.kr/today-my-diary)
 - [onRank : 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-spring.git)
 - [제 2회 아주톤 최우수상 수상](https://github.com/rlagnlfo1004/ajouthon_2025_team_2)
 - 실시간 데이터 레이크 및 파이프라인 구축 with AWS
