@@ -59,11 +59,13 @@
 <br>
 
 ## 🌱 Projects
-- [ACC : 오픈스택 기반 클라우드 콘솔 제작](https://git.ajou.ac.kr/aolda/cloud-console-backend)
-- [하루 필름 : 영상 일기 스트리밍 서비스](https://git.ajou.ac.kr/today-my-diary)
-- [onRank : 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-spring.git)
-- [제 2회 아주톤 최우수상 수상](https://github.com/rlagnlfo1004/ajouthon_2025_team_2)
-- 실시간 데이터 레이크 및 파이프라인 구축 with AWS
-  1. [kafka-producer](https://github.com/rlagnlfo1004/kafka-producer)
-  2. [pyspark-apps](https://github.com/rlagnlfo1004/pyspark-apps)
-  3. [ansible-playbook](https://github.com/rlagnlfo1004/datalake-ansible-playbook)
+
+<img src="https://github.com/user-attachments/assets/20fbd691-5a29-4156-9d28-cec2a50583c0" width="15" /> [ACC: 오픈스택 기반 클라우드 콘솔 제작](https://git.ajou.ac.kr/aolda/cloud-console-backend) (아올다 클라우드, 2025.06 ~ ing)
+
+<img src="https://github.com/user-attachments/assets/f5ebd7d6-c347-42db-8ae9-471f516caa5b" width="15" /> [하루 필름: 영상 일기 스트리밍 서비스](https://git.ajou.ac.kr/today-my-diary) (2025-2 웹시스템 설계 수업, 2025.10 ~ 2025.11)
+
+<img src="https://github.com/user-attachments/assets/0e4584cb-065a-4eb1-94c9-973ede98c7ac" width="15" /> [실시간 데이터 레이크 및 파이프라인 구축 with AWS](https://github.com/Realtime-DataLake) (2025.09 ~ 2025.12)
+
+<img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="15" /> [보고서 자동화 서비스](https://github.com/rlagnlfo1004/ajouthon_2025_team_2) (제 2회 아주톤 최우수상 수상작, 2025.05.24 ~ 2025.05.25)
+
+<img src="https://github.com/user-attachments/assets/4ae1a0c5-9870-4370-a25a-38f94b30fd44" width="15" /> [onRank: 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-spring.git) (2025.03 ~ 2025.06)
