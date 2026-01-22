@@ -3,8 +3,7 @@
 
 ##  👨🏻‍💻 Contact To Me
 <p align="center">
-  <a href="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577544307/noticon/a7cmr2ibsfyuwcydpvny.png"><img src="https://github.com/user-attachments/files/24786615/default.pdf"/></a> 
-
+  <a href="https://docs.google.com/viewer?url=https://github.com/rlagnlfo1004/rlagnlfo1004/blob/main/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&link=https://docs.google.com/viewer?url=https://github.com/rlagnlfo1004/rlagnlfo1004/blob/main/docs/resume.pdf"/></a> 
   <a href="https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2"/></a> 
   <a href="mailto:hramst0618@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hramst0618@gmail.com"/></a> 
   <a href="https://github.com/rlagnlfo1004"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rlagnlfo1004"/></a> 
