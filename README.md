@@ -3,11 +3,23 @@
 
 ##  👨🏻‍💻 Contact To Me
 <p align="center">
-  <a href="https://docs.google.com/viewer?url=https://github.com/rlagnlfo1004/rlagnlfo1004/blob/main/docs/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&link=https://docs.google.com/viewer?url=https://github.com/rlagnlfo1004/rlagnlfo1004/blob/main/docs/resume.pdf"/></a> 
-  <a href="https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2"/></a> 
-  <a href="mailto:hramst0618@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hramst0618@gmail.com"/></a> 
-  <a href="https://github.com/rlagnlfo1004"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rlagnlfo1004"/></a> 
-  <a href="https://git.ajou.ac.kr/hrkim2001"><img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&link=https://git.ajou.ac.kr/hrkim2001"/></a> 
+
+<a href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/rlagnlfo1004/rlagnlfo1004/main/docs/resume.pdf&embedded=true">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+</a>
+<a href="https://lumbar-node-b36.notion.site/2a8a76ffc9a180b8a3dedb9c45698bd2">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+<a href="mailto:hramst0618@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/rlagnlfo1004">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://git.ajou.ac.kr/hrkim2001">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
 </p>
 
 <br>
