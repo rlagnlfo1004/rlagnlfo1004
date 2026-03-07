@@ -28,14 +28,14 @@
 - BOAZ 25th Member. Data Engineering Sector (Jun 2025 ~ Dec 2025)
 - Hantor 37th President. Ajou Univ Software Society (Jan 2025 ~ Dec 2025)
 - Ajou University. Department of Software (Mar 2021 ~ Present)
-  
+
 <br>
 
 ## 🌱 Projects
 
 <img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [아주이벤트: 아주대학교 공지사항 및 이벤트 알림 서비스](https://github.com/AjouEvent/AjouEvent_BE_V2) (MVP 이후 참여 ~ ing)
 
-<img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (MVP 이후 참여 ~ ing)
+<img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ ing)
 
 <img src="https://github.com/user-attachments/assets/20fbd691-5a29-4156-9d28-cec2a50583c0" width="18" /> [ACC: 오픈스택 기반 클라우드 콘솔 제작](https://github.com/Aolda/cloud-console-backend) (아올다 클라우드, 2025.06 ~ ing)
 
