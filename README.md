@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
 <a href="https://rlagnlfo1004.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-F7B500?style=for-the-badge&logo=tvtime&logoColor=white"/>
 </a>
 <a href="mailto:hramst0618@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
