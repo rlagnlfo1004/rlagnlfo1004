@@ -7,6 +7,9 @@
 <a href="https://docs.google.com/gview?url=https://raw.githubusercontent.com/rlagnlfo1004/rlagnlfo1004/main/docs/resume.pdf&embedded=true">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
+<a href="https://rlagnlfo1004.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-#000000?style=for-the-badge&logo=티스토리&logoColor=white"/>
+</a>
 <a href="mailto:hramst0618@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
